@@ -1,0 +1,16 @@
+{
+  "name": "task1-single-page-website",
+  "version": "1.0.0",
+  "description": "This is Task1- Single-Page-Website using HTML, CSS & JavaScript as part of my LetsGrowMore Internship for the function Web Developer. \r Created By Dimple Verma",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}

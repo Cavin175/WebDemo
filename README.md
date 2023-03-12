@@ -1,6 +1,6 @@
-This is Task1- Single-Page-Website using HTML, CSS & JavaScript as part of my LetsGrowMore Internship for the function Web Developer. 
-Created By Dimple Verma
+This is Task1- Single-Page-Website using HTML, CSS & JavaScript as part of my sample project on Web Development. 
+Created By Cavin Omondi
 
 -----------------------------------------------------------------------------------------------------------------
-YouTube link : https://youtu.be/rn819hbLeK0
+YouTube link : https://youtu.be/A-c1Kd0rHY0
 -----------------------------------------------------------------------------------------------------------------
